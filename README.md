@@ -1,6 +1,6 @@
 # ⚔️ Monster Battle Arena
 
-Uma aplicação web moderna para criar monstros personalizados e simular batalhas épicas entre eles! Desenvolvida em React + TypeScript com Material-UI.
+Uma aplicação web moderna para criar monstros personalizados e simular batalhas! Desenvolvida em React + TypeScript com Material-UI.
 
 ## 🌟 Funcionalidades
 
@@ -214,14 +214,6 @@ npm start -- --port 3001
 ### **Build com Warnings:**
 
 Warnings de ESLint são normais e não afetam o funcionamento.
-
-## 🤝 Contribuição
-
-1. Fork o projeto
-2. Crie uma branch: `git checkout -b feature/nova-funcionalidade`
-3. Commit suas mudanças: `git commit -m 'Adiciona nova funcionalidade'`
-4. Push para a branch: `git push origin feature/nova-funcionalidade`
-5. Abra um Pull Request
 
 ## 📄 Licença
 
